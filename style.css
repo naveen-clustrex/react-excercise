@@ -1,0 +1,22 @@
+h1, p {
+  font-family: Lato;
+}
+
+.App {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.Main {
+  text-align: center;
+  color: red;
+  background-color: yellow;
+}
+
+button{
+  background-color: lightgreen;
+}
+
+button:hover {
+  background-color: salmon;
+}
